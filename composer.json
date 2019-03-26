@@ -1,0 +1,15 @@
+{
+    "name": "jasonmx/components",
+    "description": "Symfony Components",
+    "autoload": {
+        "psr-4": {
+            "JasonMx\\Components": "Components/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krystian Jasnos",
+            "email": "dzejson91@gmail.com"
+        }
+    ]
+}
