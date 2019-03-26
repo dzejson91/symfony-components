@@ -3,7 +3,7 @@
     "description": "Symfony Components",
     "autoload": {
         "psr-4": {
-            "JasonMx\\Components": "/"
+            "JasonMx\\Components\\": "/"
         }
     },
     "authors": [
