@@ -1,9 +1,9 @@
 {
-    "name": "jasonmx/components",
+    "name": "jasonmx/symfony-components",
     "description": "Symfony Components",
     "autoload": {
         "psr-4": {
-            "JasonMx\\Components": "Components/"
+            "JasonMx\\Components": "/"
         }
     },
     "authors": [
